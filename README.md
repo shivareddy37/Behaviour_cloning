@@ -1,4 +1,6 @@
 ﻿# Behaviour_cloning
+
+The project is done as part of Udacity self Driving Car Nano Degree Program.
 Car Run in a simulator autonomously, after cloning the behavior of driving pattern during training.
 Steps to run the Project:
 
